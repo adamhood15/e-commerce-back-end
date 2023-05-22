@@ -30,7 +30,7 @@
 
   ![screenshot of application](./assets/application.png)
 
-  Usage Link: https://drive.google.com/file/d/1BDb7E-NURRQ5_vzvKqrkLgDbijfEr1Pg/view
+  Demonstrations Video Link: https://drive.google.com/file/d/1vHILmXd9Laq9kIew9BEyCDO5nlXcmUFg/view 
   
   
   ## License
